@@ -1,6 +1,8 @@
 # PIValueCalculationPython
-This program Calculates the Value of PI Using the Neelkantha Method and prints it in a DialogBox usin Tkinter.
+This program Calculates the Value of PI Using the Neelkantha Method and prints it in a DialogBox using Tkinter.
 This program uses the Tkinter package of the Python Module. Pretty Straightforward if you read the comments.
+* The PIValuetonthdigit calculates the value of PI upto 50 digits and the user is asked the precision value.
+* The PIValueCalculationPython calculates the value of PI and presents it in Tkinter dialogbox.
 
 ## Language Used:
 Python
