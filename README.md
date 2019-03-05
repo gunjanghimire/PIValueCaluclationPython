@@ -6,3 +6,7 @@ This program uses the Tkinter package of the Python Module. Pretty Straightforwa
 
 ## Language Used:
 Python
+
+Coding Challenge:
+This repo is a answer to the Coding Challenge posted in the Project List from the link below. It doesn't solve the problem entirely but it is my attempt at it.
+* https://github.com/karan/Projects
